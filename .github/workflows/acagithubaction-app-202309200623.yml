@@ -8,7 +8,7 @@ env:
   CONTAINER_APP_NAME: acagithubaction-app-202309200623
   CONTAINER_APP_RESOURCE_GROUP_NAME: aapt0920LinuxGroup
   CONTAINER_REGISTRY_LOGIN_SERVER: acagithubaction20230920062629.azurecr.io
-  DOCKER_FILE_PATH: ./Dockerfile
+  DOCKER_FILE_PATH: ././ACAGithubAction/Dockerfile
   PROJECT_NAME_FOR_DOCKER: acagithubaction
 jobs:
   build:
